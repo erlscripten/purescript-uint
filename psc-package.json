@@ -6,7 +6,6 @@
     "prelude",
     "console",
     "effect",
-    "generics-rep",
     "math",
     "maybe",
     "psci-support",
